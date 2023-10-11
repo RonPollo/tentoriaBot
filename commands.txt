@@ -1,0 +1,5 @@
+1 install docker and enable hardware wirt
+2 run cmd and go to the file location
+3 docker build -t bot .
+4 docker run bot 
+docker system prune -a

@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "tentoriabot",
+    "private_key_id": "c273b9d99856f1df5508377de011f8666e8e6b04",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvvoAF/o/T4qn5\n+3DEexnrYUYVRE//6Sar7u73Jlwxd4A3jywapn/6Ld029e0oCFd+howZsmkQ2SY+\nkIB/rHbTkNv6vk2rtvPQ4w/fcHbTNdCewj3QHSCpJKjPisJFRotwz1/WStY8NFYF\ntslgQuDeNCa2OT0IB4RMQm7URP/w+jC0NyINlpiIBnsJsNXKl1z6KjmEMBCwrBBA\noPh+emtksZNuKRHSSMBXmlo5VScl7c6wqGZwgG3RdG7cawrgRka4r0k15lsY/GZ/\nN63trDD1dEG5fUj6IIbQqZfDg/YEn8gbtD1VWoL7V5mKdtBC8d0dq8wFlSdBekFB\noIqMkuoxAgMBAAECggEACfre8m8N8bi7g+aSPk4hTL/u4kS3DN1d0niv/gbY2raQ\nMXwUjJcryXZy3bYP6dpH/RwKdx7SeruGrz5tnslQgwBys0EqmUVf7iQDYfRnXna0\nzu4H40ysJcfxYCvNIXCwVE9zknBhqD23vtibzVuKU6iRf6PAC26cs56BTbFQi8Kt\n5pd1JU/rbp590cl4LaiVeK/98ehz1qjLgHd2xXWbYV0ZdPpYyPKhD5+RhCnu3tu5\nw0ToU+Kve9cYCLHalDxtBj3Ze+Kj02YtDdhC+eYtNGq4IkT17dZot6ULpL9zGrvA\n4eDIAs3m0TKhhI4JGYUnNajuA7WDncBMOkRhG+Y6MwKBgQDXHqGisAdp6CkUv6Bw\npyoeqqtfmiUhgeEMqExWwrfBLo+s+Hc+NkrSp5hWDJQVCkEn3SFJgc+05wEBb2Fi\nzZFjJEdZtIFLmyeUxVgdLYk+DSmJyCwRH1nDD34ACWtAKATptABZ4aHUyWe7YAQT\nkovwJyF05itj6ipDFRf3A6923wKBgQDRJEl9zJitdHNsRjY15wsYZnA9WjszZtwe\n/RTBtHZvf77cCwUPazudamRBArgWNxvcn3MJDC3nWFyq69CMr1Bv+NBfcx4uSmS1\nsux8L9xCIjDnvY23oBF0HEeuniDWYCAUy+23Y2A1EwQWDpxEzfWG4u0zFqkWo25W\n0itzz0sQ7wKBgGpCIy0tLjxOBRzOmv2KVO/Y9dW/Wl/2u6d46lxgykuOKEIUaTI9\nty/ewQygIfVSn2SFgg/BI0wEXybKUZxwVkRWgzf4RXWHKkH+SMwA1i3kaoQ4cCv1\nBG2plV+HR4blPagC1bmQDlQBOFAB2YGhfaYebhRELWKpJD8GiFPnaiCZAoGANsYW\nKUhIREVXZWgOEpfsI/vQMYFMN+4cgFEv+ntU+Wavidmo/ZzMBDI1B4G6zLaqKWHp\nMtlpvEk8G9eeyvmvS2QSzqzLnrwFHEE8BlpSiU+DF25hi1H0wEAX1fe8Cekq/cda\n/sicDcppK42wB6UZRLZyAQtSRYeQAlUQ5EfKFSkCgYEA1q0jXulDlfOXkShN2NTh\nCfThV6euRKes5YV2XlUU6s5jqOyBY/kc07cZhAziC0D5ajepS1jZerAj0NPpZ2Ok\nSou8j81tAqXHHR28ChchoVR6e6CPknRKLi9aY6l9UFSQUELvZFwD4qMqrqIV9g5d\nWrq++oOgPyb369CVNeCrzeU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "tentoriabot@tentoriabot.iam.gserviceaccount.com",
+    "client_id": "114221231785002052081",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tentoriabot%40tentoriabot.iam.gserviceaccount.com"
+  }
+  
