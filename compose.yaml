@@ -1,0 +1,6 @@
+services:
+  bot:
+    network_mode: host
+    restart: unless-stopped
+    build:
+        dockerfile: Dockerfile
