@@ -46,8 +46,10 @@ async def get_report(state):
                 Яндекс безнал: {data['yandex_bez']}
 
                 Мойка: {data['washing']}
+                    тип: {data['washing_type']}
 
                 Заправка: {data['azs']}
+                    тип: {data['azs_type']}
 
                 Всего налички: {total_cash}
 

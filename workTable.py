@@ -102,7 +102,7 @@ class Table:
         
         total_shift = data['terminal'] + data['viza_discount'] + data['cash_bavaria'] + data['cash_card'] + data['znf'] + data['bonuse'] + data['yandex_nal'] + data['yandex_bez'] + data['perscash']
         total_shift = round(total_shift, 2)
-        total_cash = data['yandex_nal'] + data['cash_bavaria'] - washing_count - azs_count
+        total_cash = data['yandex_nal'] + data['cash_bavaria'] 
         flaw_cash = total_cash - data['over_cash']
 
         self.ss.prepare_setValues(f'A{row}:A{row}', [[data['date']]])
